@@ -13,9 +13,10 @@ Step 2. Add the dependency
 	}
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
->> HijriDatePicker:
+HijriDatePicker:
+-----------------
 
-  UmmalquraCalendar now = new UmmalquraCalendar();
+                UmmalquraCalendar now = new UmmalquraCalendar();
                 HijriDatePickerDialog dpd = HijriDatePickerDialog.newInstance(
                         new HijriDatePickerDialog.OnDateSetListener() {
                             @Override
@@ -37,6 +38,7 @@ Step 2. Add the dependency
                 dpd.setLocale(new Locale("ar"));
                 assert getFragmentManager() != null;
                 dpd.show(getFragmentManager(), "Datepickerdialog");
+		
 /////////////////////////////////////////////////////////////////////////
 
 
