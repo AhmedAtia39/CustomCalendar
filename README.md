@@ -100,6 +100,7 @@ TimePicker
                 tpd.show(getFragmentManager(), "Timepickerdialog");
                 
  
- ![436251666523680](https://user-images.githubusercontent.com/28944401/198265911-cb45e035-3bfa-4486-9002-701c5dfbff94.jpg)
 
-                
+                ![2](https://user-images.githubusercontent.com/28944401/198266192-b855bedb-6def-46aa-93fb-2dd8e7ec3760.PNG)
+![1](https://user-images.githubusercontent.com/28944401/198266199-0100df67-5130-4102-bb80-52e205631365.PNG)
+
