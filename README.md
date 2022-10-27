@@ -43,9 +43,10 @@ HijriDatePicker:
 
 
 
->> GregorianDatePicker :
+GregorianDatePicker
+-------------------
 
- Calendar now = Calendar.getInstance();
+                Calendar now = Calendar.getInstance();
                 GregorianDatePickerDialog dpd = GregorianDatePickerDialog.newInstance(
                         new GregorianDatePickerDialog.OnDateSetListener() {
                             @Override
@@ -66,9 +67,10 @@ HijriDatePicker:
                 
 //////////////////////////////////////////////////////////////////////////////////////////
 
->> TimePicker : 
+TimePicker 
+----------
 
- Calendar now = Calendar.getInstance();
+                Calendar now = Calendar.getInstance();
                 TimePickerDialog tpd = TimePickerDialog.newInstance(
                         new TimePickerDialog.OnTimeSetListener() {
                             @Override
