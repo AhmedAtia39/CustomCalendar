@@ -11,7 +11,8 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.AhmedAtia39:CustomCalendar:1.0.1'
 	}
-////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 
 HijriDatePicker:
 -----------------
@@ -39,7 +40,7 @@ HijriDatePicker:
                 assert getFragmentManager() != null;
                 dpd.show(getFragmentManager(), "Datepickerdialog");
 		
-/////////////////////////////////////////////////////////////////////////
+
 
 
 
@@ -65,7 +66,8 @@ GregorianDatePicker
                 assert getFragmentManager() != null;
                 dpd.show(getFragmentManager(), "Datepickerdialog");
                 
-//////////////////////////////////////////////////////////////////////////////////////////
+
+
 
 TimePicker 
 ----------
@@ -97,7 +99,6 @@ TimePicker
                 assert getFragmentManager() != null;
                 tpd.show(getFragmentManager(), "Timepickerdialog");
                 
- ////////////////////////////////////////////////////////////////////////
  
  
                 
