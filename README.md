@@ -101,6 +101,8 @@ TimePicker
                 
  
 
-                ![2](https://user-images.githubusercontent.com/28944401/198266192-b855bedb-6def-46aa-93fb-2dd8e7ec3760.PNG)
-![1](https://user-images.githubusercontent.com/28944401/198266199-0100df67-5130-4102-bb80-52e205631365.PNG)
+  
+![3](https://user-images.githubusercontent.com/28944401/198266452-00e3d158-8458-42ea-9c7c-4edb83a4aa4f.PNG)
+![1](https://user-images.githubusercontent.com/28944401/198266457-693a9c36-2d80-4ffa-b27b-da5dc9d34314.PNG)
+![2](https://user-images.githubusercontent.com/28944401/198266459-0f727048-b7b9-4ec1-873b-2e7ef36d27b1.PNG)
 
